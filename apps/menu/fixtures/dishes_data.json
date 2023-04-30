@@ -1,0 +1,92 @@
+[
+    {
+    "model": "menu.Dish",
+    "pk": 1,
+    "fields": {
+    "name": "Tomato and Cheese Salad",
+    "description": "A refreshing salad with juicy tomatoes and creamy cheese.",
+    "ingredients": [1, 4]
+    }
+    },
+    {
+    "model": "menu.Dish",
+    "pk": 2,
+    "fields": {
+    "name": "Potato and Onion Soup",
+    "description": "A comforting soup with tender potatoes and caramelized onions.",
+    "ingredients": [2, 3]
+    }
+    },
+    {
+    "model": "menu.Dish",
+    "pk": 3,
+    "fields": {
+    "name": "Mushroom Omelette",
+    "description": "A hearty omelette filled with sautéed mushrooms and melted cheese.",
+    "ingredients": [4, 5, 7]
+    }
+    },
+    {
+    "model": "menu.Dish",
+    "pk": 4,
+    "fields": {
+    "name": "Chicken and Rice Stir-Fry",
+    "description": "A flavorful stir-fry with tender chicken and fragrant rice.",
+    "ingredients": [8, 12, 16, 19]
+    }
+    },
+    {
+    "model": "menu.Dish",
+    "pk": 5,
+    "fields": {
+    "name": "Spaghetti with Tomato Sauce",
+    "description": "A classic dish of al dente spaghetti and tangy tomato sauce.",
+    "ingredients": [1, 13, 14, 15]
+    }
+    },
+    {
+    "model": "menu.Dish",
+    "pk": 6,
+    "fields": {
+    "name": "Beef Stew with Potatoes",
+    "description": "A hearty stew with tender beef and chunky potatoes.",
+    "ingredients": [2, 9, 14, 15, 16]
+    }
+    },
+    {
+    "model": "menu.Dish",
+    "pk": 7,
+    "fields": {
+    "name": "Pork Chops with Mushroom Sauce",
+    "description": "Juicy pork chops smothered in a creamy mushroom sauce.",
+    "ingredients": [5, 10, 16, 18, 19]
+    }
+    },
+    {
+    "model": "menu.Dish",
+    "pk": 8,
+    "fields": {
+    "name": "Fish Tacos",
+    "description": "Crispy fish tacos with fresh salsa and lime crema.",
+    "ingredients": [1, 11, 14, 15, 20]
+    }
+    },
+    {
+    "model": "menu.Dish",
+    "pk": 9,
+    "fields": {
+    "name": "Garlic Shrimp Pasta",
+    "description": "A garlicky pasta dish with succulent shrimp and a kick of spice.",
+    "ingredients": [1, 13, 15, 16, 19]
+    }
+    },
+    {
+    "model": "menu.Dish",
+    "pk": 10,
+    "fields": {
+    "name": "Ginger Beef and Broccoli Stir-Fry",
+    "description": "A zesty stir-fry with tender beef, crisp broccoli, and a hint of ginger.",
+    "ingredients": [2, 9, 14, 15, 17, 19]
+    }
+    }
+]

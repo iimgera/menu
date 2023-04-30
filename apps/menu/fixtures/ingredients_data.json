@@ -1,0 +1,142 @@
+[
+    {
+        "model": "menu.Ingredient",
+        "pk": 1,
+        "fields": {
+            "name": "Tomato"
+        }
+    },
+    {
+        "model": "menu.Ingredient",
+        "pk": 2,
+        "fields": {
+            "name": "Potato"
+        }
+    },
+    {
+        "model": "menu.Ingredient",
+        "pk": 3,
+        "fields": {
+            "name": "Onion"
+        }
+    },
+    {
+        "model": "menu.Ingredient",
+        "pk": 4,
+        "fields": {
+            "name": "Cheese"
+        }
+    },
+    {
+        "model": "menu.Ingredient",
+        "pk": 5,
+        "fields": {
+            "name": "Mushroom"
+        }
+    },
+    {
+        "model": "menu.Ingredient",
+        "pk": 6,
+        "fields": {
+            "name": "Bread"
+        }
+    },
+    {
+        "model": "menu.Ingredient",
+        "pk": 7,
+        "fields": {
+            "name": "Egg"
+        }
+    },
+    {
+        "model": "menu.Ingredient",
+        "pk": 8,
+        "fields": {
+            "name": "Chicken"
+        }
+    },
+    {
+        "model": "menu.Ingredient",
+        "pk": 9,
+        "fields": {
+            "name": "Beef"
+        }
+    },
+    {
+        "model": "menu.Ingredient",
+        "pk": 10,
+        "fields": {
+            "name": "Pork"
+        }
+    },
+    {
+        "model": "menu.Ingredient",
+        "pk": 11,
+        "fields": {
+            "name": "Fish"
+        }
+    },
+    {
+        "model": "menu.Ingredient",
+        "pk": 12,
+        "fields": {
+            "name": "Rice"
+        }
+    },
+    {
+        "model": "menu.Ingredient",
+        "pk": 13,
+        "fields": {
+            "name": "Pasta"
+        }
+    },
+    {
+        "model": "menu.Ingredient",
+        "pk": 14,
+        "fields": {
+            "name": "Salt"
+        }
+    },
+    {
+        "model": "menu.Ingredient",
+        "pk": 15,
+        "fields": {
+            "name": "Pepper"
+        }
+    },
+    {
+        "model": "menu.Ingredient",
+        "pk": 16,
+        "fields": {
+            "name": "Garlic"
+        }
+    },
+    {
+        "model": "menu.Ingredient",
+        "pk": 17,
+        "fields": {
+            "name": "Ginger"
+        }
+    },
+    {
+        "model": "menu.Ingredient",
+        "pk": 18,
+        "fields": {
+            "name": "Sugar"
+        }
+    },
+    {
+        "model": "menu.Ingredient",
+        "pk": 19,
+        "fields": {
+            "name": "Oil"
+        }
+    },
+    {
+        "model": "menu.Ingredient",
+        "pk": 20,
+        "fields": {
+            "name": "Vinegar"
+        }
+    }
+]
