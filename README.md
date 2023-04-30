@@ -3,7 +3,7 @@ git clone git@github.com:iimgera/menu.git
 
 
 Установите и активируйте виртуальное окружение:
-pip install poetry   (если его нет)
+pip install poetry   (если его нет)                                                  
 poetry shell
 
 
